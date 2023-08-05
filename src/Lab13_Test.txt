@@ -1,83 +1,11 @@
-Art
-Art Education
-Arts Management
-Dance
-Design (Industrial, Interior and Visual Communication)
-History of Art
-Music–Composition
-Music–Education
-Music–Musicology
-Music–Jazz Studies
-Music–Performance (Orchestral, Piano, Voice)
-Music–Theory
-Music–Undecided
-Theatre
-African American and African Studies
-Ancient History and Classics
-Arabic
-Chinese
-Classics
-Comparative Studies
-English
-Film Studies
-French
-French and Francophone Studies
-German
-Hebrew and Jewish Studies
-History
-Islamic Studies
-Italian
-Italian Studies
-Japanese
-Korean
-Linguistics
-Medieval and Renaissance Studies
-Modern Greek
-Moving-Image Production
-Philosophy
-Portuguese
-Religious Studies
-Romance Studies
-Russian
-Spanish
-Women’s, Gender and Sexuality Studies
-World Literatures
-Actuarial Science
-Astronomy and Astrophysics
-Biochemistry
-Biology
-Chemistry
-Computer and Information Science
-Data Analytics
-Earth Sciences
-Evolution and Ecology
-Integrated Major in Mathematics and English
-Mathematics
-Microbiology
-Molecular Genetics
-Physics
-Statistics
-Zoology
-Anthropological Sciences
-Anthropology
-Atmospheric Sciences
-Communication
-Criminology and Criminal Justice Studies
-Economics
-Geographic Information Science
-Geography
-International Studies
-Journalism
-Medical Anthropology
-Neuroscience
-Philosophy, Politics and Economics
-Political Science
-Psychology
-Social Science Air Transportation
-Sociology
-Speech and Hearing Science
-World Politics
 Accounting
 Aviation Management
 Economics
 Finance
+Human Resources
+Information Systems
+Insurance
+International Business
+Logistics Management
+Marketing
+Operations Management
